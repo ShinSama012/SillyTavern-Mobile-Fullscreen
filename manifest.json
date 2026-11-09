@@ -1,0 +1,7 @@
+{
+  "display_name": "Mobile Fullscreen Toggle",
+  "loading_order": 1,
+  "js": "index.js",
+  "author": "YourName",
+  "version": "1.0.0"
+}
